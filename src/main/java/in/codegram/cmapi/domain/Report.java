@@ -12,6 +12,7 @@ import javax.persistence.PreUpdate;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
+//Demo check
 @Entity
 public class Report {
 	@Id
