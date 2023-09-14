@@ -12,7 +12,7 @@ import javax.persistence.PreUpdate;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
-//push
+//from sts to git
 @Entity
 public class Batch {
 	@Id
